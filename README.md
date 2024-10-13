@@ -11,7 +11,7 @@
 
 ### Google Cloud Certified
 ![Google Cloud Certification]
-![certificacion](https://github.com/user-attachments/assets/99c48bc8-4d69-423d-8fcc-468fff561025)
+<img width="520" alt="professional-cloud-developer-certification" src="https://github.com/user-attachments/assets/3db8634c-6d05-4a6c-ad78-a3b5e3780b4b">
 
 
 
