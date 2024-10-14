@@ -8,7 +8,7 @@
 <p align="left">
 </p>
 
-### Google Cloud Certified ###
+### Google Cloud Developer Certified ###
 <img  width="250" alt="professional-cloud-developer-certification" src="https://github.com/user-attachments/assets/3db8634c-6d05-4a6c-ad78-a3b5e3780b4b">
 
 
