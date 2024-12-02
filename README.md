@@ -4,10 +4,6 @@
   </a>
 </h1>
 
-
-
-
-
 - 🌱 I’m currently learning **Spring, AWS**
 
 - 📫 How to reach me **gerson262@outlook.es**
@@ -19,6 +15,12 @@
 ### Top Usage Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonLuque&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+### Top repositories 
+
+<a href="https://github.com/gersonLuque/microservicios-con-GCP"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gersonLuque&repo=microservicios-con-GCP&theme=algolia" />
+</a>
 
 ---
 
