@@ -21,6 +21,7 @@
 <a href="https://github.com/gersonLuque/microservicios-con-GCP"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gersonLuque&repo=microservicios-con-GCP&theme=algolia" />
 </a>
+<p>Este es el repositorio donde gestionamos microservicios utilizando Google Cloud Platform.</p>
 
 ---
 
