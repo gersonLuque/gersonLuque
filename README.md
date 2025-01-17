@@ -18,7 +18,7 @@
 
 ### Top repositories 
 
-[![gersonLuque's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=gersonLuque&repo=microservicios-con-GCP&show_owner=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![gersonLuque's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=gersonLuque&repo=microservicios-con-GCP&show_owner=true&theme=blueberry)]((https://github.com/gersonLuque/microservicios-con-GCP))
 
 ---
 
