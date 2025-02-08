@@ -14,7 +14,6 @@
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonLuque&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ### Top repositories 
 
