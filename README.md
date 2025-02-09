@@ -19,7 +19,6 @@
 
 [![gersonLuque's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=gersonLuque&repo=microservicios-con-GCP&show_owner=true&theme=algolia)](https://github.com/gersonLuque/microservicios-con-GCP)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gersonLuque.Proyecto)
 
 ---
 
