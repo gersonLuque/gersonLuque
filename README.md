@@ -3,12 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Gerson+Luque....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-- 🌱 I’m currently learning **Spring, AWS**
-
-- 📫 How to reach me **gerson262@outlook.es**
-
-
 ### Google Cloud Developer Certified ###
 <img  width="150" alt="professional-cloud-developer-certification" src="https://github.com/user-attachments/assets/3db8634c-6d05-4a6c-ad78-a3b5e3780b4b">
 
