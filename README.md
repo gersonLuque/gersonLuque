@@ -4,14 +4,16 @@
   </a>
 </h1>
 
-<div>
-### Google Cloud Developer Certified ###
+### Google Cloud Developer Certified 
 
-<img  width="150" alt="professional-cloud-developer-certification" src="https://github.com/user-attachments/assets/3db8634c-6d05-4a6c-ad78-a3b5e3780b4b">
+<p align="left">
+  <img width="150" alt="professional-cloud-developer-certification" src="https://github.com/user-attachments/assets/3db8634c-6d05-4a6c-ad78-a3b5e3780b4b">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonLuque&layout=compact&theme=algolia&hide_border=true&&langs_count=10"/>
+</p>
 
-### Top Usage Languages:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonLuque&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-</div>
+
+
 
 ### Top repositories 
 
