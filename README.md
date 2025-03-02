@@ -17,10 +17,9 @@
 
 ### Top repositories 
 
-[![gersonLuque's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=gersonLuque&repo=microservicios-con-GCP&show_owner=true&theme=algolia)](https://github.com/gersonLuque/microservicios-con-GCP)
-
 [![gersonLuque's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=gersonLuque&repo=Proyecto-TFG-BackEnd&show_owner=true&theme=algolia)](https://github.com/gersonLuque/Proyecto-TFG-BackEnd)
 
+[![gersonLuque's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=gersonLuque&repo=microservicios-con-GCP&show_owner=true&theme=algolia)](https://github.com/gersonLuque/microservicios-con-GCP)
 
 ---
 
